@@ -1,7 +1,3 @@
-Here’s a concise and professional **GitHub repository description** for your project:
-
----
-
 # **Laptop Price Prediction Using Machine Learning and Deep Learning**
 
 This project predicts laptop prices using a combination of Machine Learning and Deep Learning models, including **Artificial Neural Networks (ANN)**, **K-Nearest Neighbors (KNN)**, **Random Forest**, and **Decision Trees**. The focus is on building a robust prediction system and comparing the performance of various models.
@@ -58,7 +54,3 @@ This project predicts laptop prices using a combination of Machine Learning and 
 - Compared the performance of ANN, KNN, Random Forest, and Decision Tree models.
 - **ANN** achieved the most robust results, leveraging deep learning for complex feature interactions.
 - Feature importance and error metrics provide insights into model behavior.
-
----
-
-Feel free to adapt this description with specific performance metrics, URLs, or additional details unique to your project!
