@@ -22,11 +22,6 @@ This project predicts laptop prices using a combination of Machine Learning and 
    - Correlation heatmaps for feature analysis.
    - Error distribution histograms.
    - Feature importance visualizations for Random Forest.
-
-4. **Interactive Web Application**:
-   - A Flask-based web app allows users to input laptop specifications and get real-time price predictions.
-   - Dynamic visualizations showcasing model outputs and performance metrics.
-
 ---
 
 ## **Technologies Used**
