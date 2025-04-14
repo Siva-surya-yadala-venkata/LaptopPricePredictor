@@ -37,11 +37,7 @@ This project predicts laptop prices using a combination of Machine Learning and 
    ```bash
    git clone https://github.com/yourusername/laptop-price-prediction.git
    ```
-2. Navigate to the project directory and install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3.Run Python main.py For Ann Model so like that we need to Use
+2.Run Python main.py For Ann Model , KNN , Decison Tree , SVM so like that we need to Use
 
 ---
 
