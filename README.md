@@ -37,7 +37,7 @@ This project predicts laptop prices using a combination of Machine Learning and 
    ```bash
    git clone https://github.com/yourusername/laptop-price-prediction.git
    ```
-2.Run Python main.py For Ann Model , KNN , Decison Tree , SVM so like that we need to Use
+2.Run Python main.py For Ann Model , KNN , Decison Tree and RandomForest so like that we need to Use
 
 ---
 
